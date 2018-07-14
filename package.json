@@ -1,0 +1,38 @@
+{
+  "name": "ethereum-rpc-promise",
+  "version": "1.0.0",
+  "description": "A modern promise based node.js library for communicating with Ethereum daemon.",
+  "main": "index.js",
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mocha --timeout=5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ethereum/go-ethereum.git"
+  },
+  "keywords": [
+    "ethereum",
+    "rpc",
+    "web3"
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ethereum/go-ethereum/issues"
+  },
+  "homepage": "https://github.com/ethereum/go-ethereum",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.87.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
