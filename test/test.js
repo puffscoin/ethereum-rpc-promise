@@ -10,3 +10,4 @@ describe('ethereum rpc', () => {
     rpc.call('invalid_command').catch(error => done());
   });
 });
+//testtesttesttesttesttesttesttesttesttesttesttesttest

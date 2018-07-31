@@ -1,6 +1,6 @@
 {
   "name": "ethereum-rpc-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A modern promise based node.js library for communicating with Ethereum daemon.",
   "main": "index.js",
   "files": [
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ethereum/go-ethereum.git"
+    "url": "git+ssh://git@github.com/vialikb/ethereum-rpc-promise.git"
   },
   "keywords": [
     "ethereum",
@@ -24,9 +24,9 @@
   },
   "author": "",
   "bugs": {
-    "url": "https://github.com/ethereum/go-ethereum/issues"
+    "url": "https://github.com/vialikb/ethereum-rpc-promise/issues"
   },
-  "homepage": "https://github.com/ethereum/go-ethereum",
+  "homepage": "https://vialikb.github.io/ethereum-rpc-promise",
   "license": "MIT",
   "dependencies": {
     "request": "^2.87.0",

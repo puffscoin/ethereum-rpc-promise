@@ -1,6 +1,17 @@
 ## ethereum-rpc-promise
 
-[Source Code](https://github.com/lovevialik/ethereum-rpc-promise.git)
+[![npm package](https://nodei.co/npm/ethereum-rpc-promise.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/ethereum-rpc-promise/)
+[![NPM version][npm-image]][npm-url]
+[![Dependency Status](https://img.shields.io/david/vialikb/ethereum-rpc-promise.svg?style=flat-square)](https://david-dm.org/vialikb/ethereum-rpc-promise)
+[![Known Vulnerabilities](https://snyk.io/test/npm/ethereum-rpc-promise/badge.svg?style=flat-square)](https://snyk.io/test/npm/ethereum-rpc-promise)
+[![Downloads][downloads-image]][downloads-url]
+
+
+[downloads-image]: https://img.shields.io/npm/dm/ethereum-rpc-promise.svg?style=flat-square
+[downloads-url]: https://www.npmjs.com/package/ethereum-rpc-promise
+
+[npm-image]: https://img.shields.io/npm/v/ethereum-rpc-promise.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/ethereum-rpc-promise
 
 A modern promise based node.js library for communicating with Ethereum daemon.
 
