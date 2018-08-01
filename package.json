@@ -1,14 +1,14 @@
 {
   "name": "ethereum-rpc-promise",
-  "version": "1.0.1",
-  "description": "A modern promise based node.js library for communicating with Ethereum daemon.",
+  "version": "2.1.1",
+  "description": "A modern promise based node.js library for communicating with Ethereum daemon via RPC.",
   "main": "index.js",
   "files": [
     "lib",
     "index.js"
   ],
   "scripts": {
-    "test": "mocha --timeout=5000"
+    "test": "mocha --timeout=10000"
   },
   "repository": {
     "type": "git",
@@ -29,6 +29,7 @@
   "homepage": "https://vialikb.github.io/ethereum-rpc-promise",
   "license": "MIT",
   "dependencies": {
+    "lodash": "^4.17.10",
     "request": "^2.87.0",
     "request-promise-native": "^1.0.5"
   },
