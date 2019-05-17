@@ -1,8 +1,8 @@
-const EthereumRpc = require('../');
+const PuffscoinRpc = require('../');
 
-let rpc = new EthereumRpc('https://mainnet.infura.io');
+let rpc = new PuffscoinRpc('https://mainnet.infura.io');
 
-describe('ethereum rpc', () => {
+describe('puffscoin rpc', () => {
   it('should call without params succesfully', (done) => {
     rpc.call('web3_clientVersion').then(result => done());
   });
