@@ -1,1 +1,1 @@
-module.exports = require('./lib/EthereumRpc');
+module.exports = require('./lib/PuffscoinRpc');
