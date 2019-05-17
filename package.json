@@ -1,7 +1,7 @@
 {
-  "name": "ethereum-rpc-promise",
+  "name": "puffscoin-rpc-promise",
   "version": "2.1.1",
-  "description": "A modern promise based node.js library for communicating with Ethereum daemon via RPC.",
+  "description": "A promise-based node.js library for communicating with puffscoin daemon via RPC.",
   "main": "index.js",
   "files": [
     "lib",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/vialikb/ethereum-rpc-promise.git"
+    "url": "git+ssh://git@github.com/puffscoin/puffscoin-rpc-promise.git"
   },
   "keywords": [
     "ethereum",
@@ -24,9 +24,9 @@
   },
   "author": "",
   "bugs": {
-    "url": "https://github.com/vialikb/ethereum-rpc-promise/issues"
+    "url": "https://github.com/puffscoin/puffscoin-rpc-promise/issues"
   },
-  "homepage": "https://vialikb.github.io/ethereum-rpc-promise",
+  "homepage": "https://puffscoin.github.io/puffscoin-rpc-promise",
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.10",
